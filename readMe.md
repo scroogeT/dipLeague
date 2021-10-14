@@ -1,6 +1,6 @@
 # Dip League - Coding Challenge
 
-This is a lean command line Python3 program (with no dependencies) used to rank teams in a league as explained in the attached PDF.
+This is a lean command line Python3 program (with no external dependencies) used to rank teams in a league as explained in the attached PDF.
 
 ## Usage
 
